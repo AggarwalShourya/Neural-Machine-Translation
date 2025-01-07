@@ -6,3 +6,5 @@ The following repo is an attempt to reproduce the results/outcomes from the pape
 
 
 ## this is just the model arcitecture in this repo, no training code included.
+( for training loop/complete notebook kindly please open issue/PR)
+cheers!
