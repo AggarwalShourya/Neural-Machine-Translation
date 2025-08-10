@@ -9,3 +9,5 @@ https://huggingface.co/datasets/g8a9/europarl_en-it.
 ## this is just the model arcitecture in this repo, no training code included.
 ( for training loop/complete notebook kindly please open issue/PR)
 cheers!
+
+## Update: Full Notebook added
